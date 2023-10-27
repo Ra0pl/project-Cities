@@ -1,0 +1,16 @@
+.image{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Outline_Map_of_Rostov_Oblast.svg/650px-Outline_Map_of_Rostov_Oblast.svg.png);
+    margin: 100px;
+    width: 636px;
+    height: 690px;
+  }
+  body { 
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/30/Rostov_on_Don_panoramic.png);
+      background-size: cover; 
+      background-repeat: no-repeat; 
+      background-attachment: fixed; 
+  }
+  
+#city_point{
+    cursor: pointer;
+}
